@@ -1,0 +1,127 @@
+[[resvg]]
+arch = "aarch64"
+git-tree-sha1 = "a16b23fd6fc7ae2ce65d6efe238c4991ed7a6e59"
+os = "macos"
+
+    [[resvg.download]]
+    sha256 = "f24858d8e095546d160bfd9babc3cecfb9a876c8295196a44312b4e65bebbce8"
+    url = "https://github.com/JuliaBinaryWrappers/resvg_jll.jl/releases/download/resvg-v0.45.1+0/resvg.v0.45.1.aarch64-apple-darwin.tar.gz"
+[[resvg]]
+arch = "aarch64"
+git-tree-sha1 = "34c1fb677da5fa3f4822b0fc76bc4bb5b5f2b169"
+libc = "glibc"
+os = "linux"
+
+    [[resvg.download]]
+    sha256 = "80f8942a1ccabde5228899688b2323045d0cb88e08701368cf15db6636e79a43"
+    url = "https://github.com/JuliaBinaryWrappers/resvg_jll.jl/releases/download/resvg-v0.45.1+0/resvg.v0.45.1.aarch64-linux-gnu.tar.gz"
+[[resvg]]
+arch = "aarch64"
+git-tree-sha1 = "11989f2e1f831fd726720b18fb21546d8948ae02"
+libc = "musl"
+os = "linux"
+
+    [[resvg.download]]
+    sha256 = "64d66eb8e1678f47c39cb9a313aaf248c776b12b750c6be6e3c15be89d6ff135"
+    url = "https://github.com/JuliaBinaryWrappers/resvg_jll.jl/releases/download/resvg-v0.45.1+0/resvg.v0.45.1.aarch64-linux-musl.tar.gz"
+[[resvg]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "90ce750af12d86ba97c1a2623022b036aba2aac3"
+libc = "glibc"
+os = "linux"
+
+    [[resvg.download]]
+    sha256 = "993641b95d81f05c77be41803ab6c4c700c7adc404748baa7a4cccd65bf5729d"
+    url = "https://github.com/JuliaBinaryWrappers/resvg_jll.jl/releases/download/resvg-v0.45.1+0/resvg.v0.45.1.armv6l-linux-gnueabihf.tar.gz"
+[[resvg]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "f57c12f83d8392a5b6b9ac27aacaa318facf466c"
+libc = "musl"
+os = "linux"
+
+    [[resvg.download]]
+    sha256 = "1788771259cf89a814a18896f587d2d9db2707ef1db4870353183fbee970bc1d"
+    url = "https://github.com/JuliaBinaryWrappers/resvg_jll.jl/releases/download/resvg-v0.45.1+0/resvg.v0.45.1.armv6l-linux-musleabihf.tar.gz"
+[[resvg]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "664cf85325f296dcc0767fb41884a67c561dbe9b"
+libc = "glibc"
+os = "linux"
+
+    [[resvg.download]]
+    sha256 = "da8824223737b1b92d7663aae7ada1303c3d579cf198434bca53693e07d4247c"
+    url = "https://github.com/JuliaBinaryWrappers/resvg_jll.jl/releases/download/resvg-v0.45.1+0/resvg.v0.45.1.armv7l-linux-gnueabihf.tar.gz"
+[[resvg]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "e24d9a8ba1b0dc73a6bb1be12164da347881ea47"
+libc = "musl"
+os = "linux"
+
+    [[resvg.download]]
+    sha256 = "a2606641a13ea3d189340b2ec716e51ed95071c8a43f37816b869eab77c5d819"
+    url = "https://github.com/JuliaBinaryWrappers/resvg_jll.jl/releases/download/resvg-v0.45.1+0/resvg.v0.45.1.armv7l-linux-musleabihf.tar.gz"
+[[resvg]]
+arch = "i686"
+git-tree-sha1 = "b0b5878c9570450dc1268acaa9f47f83ea9bf499"
+libc = "glibc"
+os = "linux"
+
+    [[resvg.download]]
+    sha256 = "441f66852101c180d326ae986380e0f96af9a3c7fef2a65f5c248099c5b119dc"
+    url = "https://github.com/JuliaBinaryWrappers/resvg_jll.jl/releases/download/resvg-v0.45.1+0/resvg.v0.45.1.i686-linux-gnu.tar.gz"
+[[resvg]]
+arch = "i686"
+git-tree-sha1 = "6e60aeb7b0f54ce51a4d41943392cce420c043c0"
+libc = "musl"
+os = "linux"
+
+    [[resvg.download]]
+    sha256 = "fb579a767463f77d2d0f869c6f56d2b2412454e627399906fd250872679c2da8"
+    url = "https://github.com/JuliaBinaryWrappers/resvg_jll.jl/releases/download/resvg-v0.45.1+0/resvg.v0.45.1.i686-linux-musl.tar.gz"
+[[resvg]]
+arch = "powerpc64le"
+git-tree-sha1 = "eea79f0ca982a212f71aa9bd419e4ef53ba679af"
+libc = "glibc"
+os = "linux"
+
+    [[resvg.download]]
+    sha256 = "9922011c6f6ce75ae7f15737405d42d9343df1b7c71d7024f8fd04ad9de42604"
+    url = "https://github.com/JuliaBinaryWrappers/resvg_jll.jl/releases/download/resvg-v0.45.1+0/resvg.v0.45.1.powerpc64le-linux-gnu.tar.gz"
+[[resvg]]
+arch = "x86_64"
+git-tree-sha1 = "3d0ee0fbf70dff5e03b70f4f522976c15da8578f"
+os = "macos"
+
+    [[resvg.download]]
+    sha256 = "7d50ee1576327fa861c3e3b7ad17ad2a0b3c48fbeada6a61d1e6795a50d50417"
+    url = "https://github.com/JuliaBinaryWrappers/resvg_jll.jl/releases/download/resvg-v0.45.1+0/resvg.v0.45.1.x86_64-apple-darwin.tar.gz"
+[[resvg]]
+arch = "x86_64"
+git-tree-sha1 = "3e0ab276276d19ed93a4eac188c591ca6fcc5e6c"
+libc = "glibc"
+os = "linux"
+
+    [[resvg.download]]
+    sha256 = "b63a8fc6694630ed61fc90f4f5b9e1f9d0eb0bd2b32b261cbfe5506d6cda3a82"
+    url = "https://github.com/JuliaBinaryWrappers/resvg_jll.jl/releases/download/resvg-v0.45.1+0/resvg.v0.45.1.x86_64-linux-gnu.tar.gz"
+[[resvg]]
+arch = "x86_64"
+git-tree-sha1 = "7baad08aafc833122bc4ec655fd8f4f72a390d81"
+libc = "musl"
+os = "linux"
+
+    [[resvg.download]]
+    sha256 = "741981bad2203e0b84f1fb2f75445c1e07feb1568fea4584cb00bc3e216d4f9f"
+    url = "https://github.com/JuliaBinaryWrappers/resvg_jll.jl/releases/download/resvg-v0.45.1+0/resvg.v0.45.1.x86_64-linux-musl.tar.gz"
+[[resvg]]
+arch = "x86_64"
+git-tree-sha1 = "b3f45a3ef00019dc6dcbda94f8ed56a653ab2b49"
+os = "windows"
+
+    [[resvg.download]]
+    sha256 = "7e1086e3bb9d157101e06c10791f5064cc6e6f9ce9c6207f708822c83acb0e00"
+    url = "https://github.com/JuliaBinaryWrappers/resvg_jll.jl/releases/download/resvg-v0.45.1+0/resvg.v0.45.1.x86_64-w64-mingw32.tar.gz"
